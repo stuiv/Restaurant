@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Restaurant</string>
+    <string name="server_url">https://resto.mprog.nl/menu?category=</string>
+    <string name="cat_url">https://resto.mprog.nl/categories</string>
+</resources>
